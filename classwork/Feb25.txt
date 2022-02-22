@@ -1,0 +1,1 @@
+You don't use namespaces in header files to be more precise and explicit with your code statements.

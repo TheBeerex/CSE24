@@ -1,0 +1,1 @@
+This is your personal workspace in CodeSync. For every lab or homework exercise, you will be asked to create some files here, and complete your work. 
